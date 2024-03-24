@@ -1,3 +1,5 @@
+![LinkedIn_Banner](https://github.com/annaaksenov/annaaksenov/assets/121647003/4b42b6f5-ea55-4b69-ad19-e11534b4ab6a)
+
 ### Hi there 👋
 🔭 I’m a web developer!
 
@@ -16,3 +18,4 @@ HTML5, CSS3, JavaScript (ES6), flexbox, React, TypeScript, JSON, AJAX, fetch, HT
 Git, Github, Chrome, DevTools, Visual Studio Code, Slack, Figma, npm, Webpack, Babel, Vite
 ## Links
 <a href="https://www.linkedin.com/in/anna-aksenov/">LinkedIn</a>
+
