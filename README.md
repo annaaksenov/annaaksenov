@@ -16,6 +16,6 @@ A graduate from LearningFuze. I'm always learning and trying new things. I'm int
 HTML5, CSS3, JavaScript (ES6), flexbox, React, TypeScript, JSON, AJAX, fetch, HTTP, XMLHttpRequest, Node.js, Babel, Express.js, PostgreSQL.
 ## Tools
 Git, Github, Chrome, DevTools, Visual Studio Code, Slack, Figma, npm, Webpack, Babel, Vite
-## Links
+## Let's Connect!
 <a href="https://www.linkedin.com/in/anna-aksenov/">LinkedIn</a>
 
