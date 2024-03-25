@@ -3,7 +3,7 @@
 ### Hi there 👋
 🔭 I’m a web developer!
 
-💫 Passionate about front-end to embrace my creative side!
+💫 Passionate about front-end, embracing my creative side!
 
 👀 Always looking for opportunities to improve my skills.
 
