@@ -1,4 +1,5 @@
-![LinkedIn_Banner](https://github.com/annaaksenov/annaaksenov/assets/121647003/4b42b6f5-ea55-4b69-ad19-e11534b4ab6a)
+![LinkedIn_Banner_Green](https://github.com/annaaksenov/annaaksenov/assets/121647003/cbfac46c-b5c4-4509-bdec-71d806dce79b)
+
 
 ### Hi there 👋
 🔭 I’m a web developer!
